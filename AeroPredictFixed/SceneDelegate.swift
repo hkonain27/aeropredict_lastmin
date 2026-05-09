@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  AeroPredictFixed
+//  AeroPredict
 //
-//  Created by Hafsa Konain on 5/7/26.
+//  Created by Hafsa Konain on 4/22/26.
 //
 
 import UIKit
