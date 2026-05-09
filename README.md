@@ -124,6 +124,7 @@ The MVP includes flight search, prediction results, saved flights, and dashboard
 
 ## [BONUS] Digital Wireframes Mockups & Interactive Prototype
 
+![Bonus](wireframes/Bonus)
 Digital wireframes were created using Figma to represent the app layout and UI structure.
 
 An interactive prototype can be created in Figma to simulate navigation between screens.
